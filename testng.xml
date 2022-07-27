@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="7">
+	<listeners>
+		<listener class-name="reporter.testListener"></listener>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="PreRequisites.beforeSuiteTest"/>
+      <class name="UITest.getTagFromStackoverflow"/>
+      <class name="APITest.badgeID_positive"/>
+      <class name="APITest.badgeID_negative"/>
+      <class name="APITest.badgeTags_positive"/>
+      <class name="APITest.badgeTags_negative"/>
+      <class name="APITest.badgeReceipent_positive"/>
+      <class name="APITest.badgeReceipent_negative"/>
+    </classes>
+  </test>
+</suite>

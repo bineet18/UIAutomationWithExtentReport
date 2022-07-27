@@ -1,0 +1,4 @@
+# Created at 2021-12-01T15:48:47.386
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse-workspace\CloudCoverExercise\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

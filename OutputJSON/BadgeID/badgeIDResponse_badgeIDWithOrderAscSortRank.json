@@ -1,0 +1,13 @@
+{
+  "items" : [ {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6505,
+    "link" : "https://stackoverflow.com/badges/6505/nodemcu",
+    "name" : "nodemcu"
+  } ],
+  "has_more" : false,
+  "quota_max" : 300,
+  "quota_remaining" : 124
+}

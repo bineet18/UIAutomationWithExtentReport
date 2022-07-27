@@ -1,0 +1,216 @@
+{
+  "items" : [ {
+    "badge_type" : "tag_based",
+    "award_count" : 2,
+    "rank" : "bronze",
+    "badge_id" : 6509,
+    "link" : "https://stackoverflow.com/badges/6509/wagtail",
+    "name" : "wagtail"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 14,
+    "rank" : "bronze",
+    "badge_id" : 6512,
+    "link" : "https://stackoverflow.com/badges/6512/powerbi",
+    "name" : "powerbi"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6513,
+    "link" : "https://stackoverflow.com/badges/6513/omnithreadlibrary",
+    "name" : "omnithreadlibrary"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6514,
+    "link" : "https://stackoverflow.com/badges/6514/clutter",
+    "name" : "clutter"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6515,
+    "link" : "https://stackoverflow.com/badges/6515/python-docx",
+    "name" : "python-docx"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6517,
+    "link" : "https://stackoverflow.com/badges/6517/quirks-mode",
+    "name" : "quirks-mode"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6519,
+    "link" : "https://stackoverflow.com/badges/6519/azure-sdk-net",
+    "name" : "azure-sdk-.net"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 2,
+    "rank" : "bronze",
+    "badge_id" : 6520,
+    "link" : "https://stackoverflow.com/badges/6520/git-subtree",
+    "name" : "git-subtree"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6521,
+    "link" : "https://stackoverflow.com/badges/6521/google-nativeclient",
+    "name" : "google-nativeclient"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 3,
+    "rank" : "bronze",
+    "badge_id" : 6525,
+    "link" : "https://stackoverflow.com/badges/6525/firebaseui",
+    "name" : "firebaseui"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6526,
+    "link" : "https://stackoverflow.com/badges/6526/messages",
+    "name" : "messages"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6527,
+    "link" : "https://stackoverflow.com/badges/6527/app-inventor",
+    "name" : "app-inventor"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 2,
+    "rank" : "bronze",
+    "badge_id" : 6528,
+    "link" : "https://stackoverflow.com/badges/6528/cart",
+    "name" : "cart"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6529,
+    "link" : "https://stackoverflow.com/badges/6529/kurento",
+    "name" : "kurento"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 3,
+    "rank" : "bronze",
+    "badge_id" : 6530,
+    "link" : "https://stackoverflow.com/badges/6530/z3py",
+    "name" : "z3py"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6533,
+    "link" : "https://stackoverflow.com/badges/6533/spring-java-config",
+    "name" : "spring-java-config"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 2,
+    "rank" : "bronze",
+    "badge_id" : 6535,
+    "link" : "https://stackoverflow.com/badges/6535/alembic",
+    "name" : "alembic"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6536,
+    "link" : "https://stackoverflow.com/badges/6536/pos-tagger",
+    "name" : "pos-tagger"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 2,
+    "rank" : "bronze",
+    "badge_id" : 6537,
+    "link" : "https://stackoverflow.com/badges/6537/class-diagram",
+    "name" : "class-diagram"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 4,
+    "rank" : "bronze",
+    "badge_id" : 6538,
+    "link" : "https://stackoverflow.com/badges/6538/sql-execution-plan",
+    "name" : "sql-execution-plan"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 7,
+    "rank" : "bronze",
+    "badge_id" : 6539,
+    "link" : "https://stackoverflow.com/badges/6539/pug",
+    "name" : "pug"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6540,
+    "link" : "https://stackoverflow.com/badges/6540/gnuradio",
+    "name" : "gnuradio"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6541,
+    "link" : "https://stackoverflow.com/badges/6541/puphpet",
+    "name" : "puphpet"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 3,
+    "rank" : "bronze",
+    "badge_id" : 6543,
+    "link" : "https://stackoverflow.com/badges/6543/xctest",
+    "name" : "xctest"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6544,
+    "link" : "https://stackoverflow.com/badges/6544/polymorphic-associations",
+    "name" : "polymorphic-associations"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6545,
+    "link" : "https://stackoverflow.com/badges/6545/ms-media-foundation",
+    "name" : "ms-media-foundation"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6546,
+    "link" : "https://stackoverflow.com/badges/6546/video-capture",
+    "name" : "video-capture"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6547,
+    "link" : "https://stackoverflow.com/badges/6547/npgsql",
+    "name" : "npgsql"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 7,
+    "rank" : "bronze",
+    "badge_id" : 6548,
+    "link" : "https://stackoverflow.com/badges/6548/laravel-5-3",
+    "name" : "laravel-5.3"
+  }, {
+    "badge_type" : "tag_based",
+    "award_count" : 1,
+    "rank" : "bronze",
+    "badge_id" : 6549,
+    "link" : "https://stackoverflow.com/badges/6549/sphinx4",
+    "name" : "sphinx4"
+  } ],
+  "has_more" : true,
+  "quota_max" : 300,
+  "quota_remaining" : 115
+}
